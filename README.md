@@ -1,6 +1,6 @@
 ### Hi there, I'm Gleb
 
-[![Belarusian IT communities](https://img.shields.io/badge/Belarusian%20IT%20communities-repository-green.svg)](https://github.com/gleb-kosteiko/belarusian-it-communities)
+[![Belarusian IT communities](https://img.shields.io/badge/Belarusian%20IT-repository-green.svg)](https://github.com/gleb-kosteiko/belarusian-it-communities)
 
 [![QuarkusNews](https://img.shields.io/badge/QuarkusNews-channel-blue.svg)](QuarkusNews)
 

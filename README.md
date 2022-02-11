@@ -1,6 +1,6 @@
 ### Hi there, I'm Gleb
 
-I'm Software Engineer who is interesting in Web development, Cloud and Serverless technologies.
+I'm Software Engineer interesting in Web development, Cloud services and Serverless technologies.
 
 Here are some things I do:
  - [Belarusian IT communities](https://github.com/gleb-kosteiko/belarusian-it-communities) - list of different nice Belarusian IT communities

@@ -10,6 +10,5 @@ Here are some things I do:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hleb-kastseika&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hleb-kastseika&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hleb-kastseika&theme=default)
 
 [![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1145792)](https://stackoverflow.com/users/1145792/hleb-kastseika)

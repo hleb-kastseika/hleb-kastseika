@@ -1,6 +1,6 @@
 ### Hi there, I'm Hleb
 
-I'm Software Engineer interesting in Web development with Java, Clouds (AWS, Oracle Cloud) and Serverless technologies.
+I'm software engineer interesting in web development with Java, clouds (AWS, Oracle Cloud) and serverless technologies.
 
 Here are some things I do:
  - [Belarusian IT communities](https://github.com/hleb-kastseika/belarusian-it-communities) - list of different nice Belarusian IT communities

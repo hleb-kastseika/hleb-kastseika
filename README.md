@@ -1,6 +1,6 @@
 ### Hi there, I'm Hleb
 
-I'm software engineer interesting in web development with Java, clouds (AWS, Oracle Cloud) and serverless technologies.
+I'm a software engineer interesting in web development with Java, clouds (AWS, Oracle Cloud) and serverless technologies.
 
 Here are some things I do:
  - [QuarkusNews](https://t.me/quarkusnews) - my Telegram-channel about Quarkus

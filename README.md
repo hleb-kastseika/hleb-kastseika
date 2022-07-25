@@ -7,9 +7,6 @@ Here are some things I do:
  - [r/quarkus](https://www.reddit.com/r/quarkus) - Quarkus-related subreddit
  - [QuarkusNews](https://t.me/quarkusnews) - my Telegram-channel about Quarkus
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hleb-kastseika&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hleb-kastseika&theme=default)
-
-👇 I am on Stackoverflow 👇
-
-[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1145792)](https://stackoverflow.com/users/1145792/hleb-kastseika)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hleb-kastseika&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hleb-kastseika&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hleb-kastseika&theme=vue)
